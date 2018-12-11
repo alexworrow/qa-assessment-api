@@ -1,0 +1,6 @@
+testCase,scenario,email,password,attemptsRemaining
+TC1.1,User fails to login due to wrong password - Attempt 1,alex.testsubmission@outlook.com,nottherightpassword,5
+TC1.2,User fails to login due to wrong password - Attempt 2,alex.testsubmission@outlook.com,atestpassword,4
+TC1.3,User fails to login due to wrong password - Attempt 3,alex.testsubmission@outlook.com,12345,3
+TC1.4,User fails to login due to wrong password - Attempt 4,alex.testsubmission@outlook.com,TestFour,2
+TC1.5,User fails to login due to wrong password - Attempt 5,alex.testsubmission@outlook.com,LoginFail,1
